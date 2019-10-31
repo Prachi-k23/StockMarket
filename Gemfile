@@ -20,7 +20,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 gem 'jquery-rails'
 gem 'stock_quote', '~> 3.0'
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 gem 'coffee-script-source', '~> 1.11', '>= 1.11.1'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
